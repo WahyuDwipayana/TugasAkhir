@@ -1,0 +1,70 @@
+.text-nav {
+    font-family: "Montserrat", sans-serif;
+}
+
+.text-search {
+    font-family: "Montserrat", sans-serif;
+}
+
+.jumbotron {
+    padding: 7rem;
+    height: 500px;
+    background-image: url(/style/img/bg.png);
+    background-size: cover;
+}
+
+.tittle {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+
+.tittle1 {
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.tittle2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: #000000;
+    text-decoration: none;
+}
+
+.tittle3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    color: #000000;
+    text-decoration: none;
+}
+
+.tittle4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 1500;
+    color: #000000;
+    text-decoration: none;
+    font-style: initial;
+}
+
+.tittle5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tittle6 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.tittle7 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: #000000;
+    text-decoration: none;
+    font-style: initial;
+}
